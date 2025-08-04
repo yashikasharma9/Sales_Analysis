@@ -1,0 +1,29 @@
+
+# Requirements for Excel Sales Analysis Dashboard Project
+
+Tool: Microsoft Excel (2016 or later recommended)
+
+Required Excel Features:
+- Pivot Tables
+- Slicers and Timeline Filters
+- Charts: Bar Chart, Pie Chart, Line Chart
+- Conditional Formatting
+- Data Validation (Dropdowns)
+- Power Query (for data transformation, if used)
+- Named Ranges (for interactive dashboards)
+- Dashboard Layout Design (using cell formatting, shapes, etc.)
+
+Data Source Format:
+- Excel (.xlsx or .xls)
+- Clean and structured tabular format with columns such as:
+  - Sales Executive
+  - Total Sales
+  - Target Achieved %
+  - Region or City
+
+No external scripts or plugins required.
+
+Optional (if automating or extending with Python or Power BI):
+- pandas
+- openpyxl
+- pyxlsb or xlrd
