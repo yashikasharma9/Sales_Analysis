@@ -84,13 +84,4 @@ sales-performance-excel-dashboard/
 
 ---
 
-## 📧 Contact
-
-**Your Name**  
-📫 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 [Portfolio](https://yourwebsite.com)
-
----
-
 > ⭐ *If you found this useful, star the repo and feel free to contribute or fork it.*
